@@ -1,7 +1,7 @@
-# Money-Matters
-Team 3
+# Team 3: Money-Matters
+Facilitating a collaborative learning experience to improve financial literacy in late primary school aged children.
 
-# Our Prototype:
+# Our Prototype
 Our team's prototype is an Excel Spreadsheet as it best suited the testing we wanted to conduct in line with our social and mobile objectives. 
 As a result, we do not have any code base to upload or describe, and instead, we will share the Google Link to access the Google Spreadsheet prototype: https://docs.google.com/spreadsheets/d/18EAZ9WM2Rle0nBZHo_WvEpn8MgTHY_4mECRxLyBYqUQ/edit?usp=sharing
 
